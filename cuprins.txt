@@ -1,2 +1,3 @@
 Cuprins
 Introducere	.....................	01_introducere.txt
+Capitol 2	.....................	02_capitol2.txt
